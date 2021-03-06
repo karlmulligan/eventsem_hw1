@@ -1,0 +1,11 @@
+{
+    "dataset_reader": {
+        "type": "uds_srl_reader",
+        "lazy": false
+    },
+    "model": {},
+    "train_data_path": "data/agent/dev.json",
+    "validation_data_path": "data/agent/val.json",
+    "trainer": {},
+    "data_loader": {}
+}

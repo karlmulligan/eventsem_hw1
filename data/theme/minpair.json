@@ -1,0 +1,10 @@
+{
+    "minpair_theme" : {
+        "graphid" : "theme",
+        "tokens" : ["John", "kicked", "the", "ball", "."],
+        "predicate_head_idx" : "2", 
+        "argument_head_idx" : "4",
+        "label" : "positive" 
+    }
+}
+

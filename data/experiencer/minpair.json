@@ -1,0 +1,10 @@
+{
+    "minpair_experiencer" : {
+        "graphid" : "exp",
+        "tokens" : ["John", "saw", "the", "ball", "."],
+        "predicate_head_idx" : "2", 
+        "argument_head_idx" : "1",
+        "label" : "positive" 
+    }
+}
+

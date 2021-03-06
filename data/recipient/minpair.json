@@ -1,0 +1,17 @@
+{
+    "minpair_recipient1" : {
+        "graphid" : "r1",
+        "tokens" : ["John", "kicked", "the", "ball", "to", "Mary", "."],
+        "predicate_head_idx" : "2", 
+        "argument_head_idx" : "6",
+        "label" : "positive" 
+    },
+    "minpair_recipient2" : {
+        "graphid" : "r2",
+        "tokens" : ["John", "kicked", "Mary", "the", "ball", "."],
+        "predicate_head_idx" : "2", 
+        "argument_head_idx" : "3",
+        "label" : "positive" 
+    }
+}
+
