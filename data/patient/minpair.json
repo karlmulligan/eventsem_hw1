@@ -1,0 +1,10 @@
+{
+    "minpair_patient" : {
+        "graphid" : "patient",
+        "tokens" : ["John", "crushed", "the", "ball", "."],
+        "predicate_head_idx" : "2", 
+        "argument_head_idx" : "4",
+        "label" : "positive" 
+    }
+}
+
